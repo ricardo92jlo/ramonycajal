@@ -1,0 +1,30 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs y temporales
+*.log
+*.tmp
+*.swp
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+
+# Entornos virtuales
+env/
+venv/
+
+# Archivos de entorno y configuración sensible
+.env
+.env.*
+
+# Otros
+dist/
+build/
+.cache/
